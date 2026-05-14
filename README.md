@@ -1,11 +1,37 @@
 # SlayxFortniteBuild
 All the new Fortnite builds are here
 
+It's possible that some builds won't work :/
+
+## Chapter 7 Season 3
+| Build | Download | Alternative Download | Alternative Download
+|--------------|---------------|---------------|---------------|
+| 41.00-CL-???????? | Coming Soon|
+
+## Chapter 7 Season 2
+| Build | Download | Alternative Download | Alternative Download
+|--------------|---------------|---------------|---------------|
+| 40.00-CL-51995682 | Manifest Available |
+| 40.00-CL-51746096 | https://fortforge.dev/builds/bf0ce144-a89c-4517-8f51-5bacfa15cfe3 |
+| 40.10-CL-52157884 | https://fortforge.dev/builds/90b5a7c1-3ff3-46f4-99f3-ca2b8d96d165 |
+| 40.20-CL-52463280 | https://fortforge.dev/builds/b1b68d0b-71aa-4ac8-a306-f97c532b9d5c |
+| 40.30-CL-53093531 | https://fortforge.dev/builds/7e6c16fc-3bc8-4cb3-af07-673a2949b8e2 |
+
 ## Chapter 7 Season 1
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 39.00-CL-48444883 | Manifest Available |
-| 39.00-CL-48444883 | Current |
+| 39.00-CL-48801071 | https://fortforge.dev/builds/198f91fc-7b8a-420f-baef-9b96ea127ba5 |
+| 39.10-CL-48971054 | https://fortforge.dev/builds/ab1eb1a5-0ba6-4bb9-a19c-036f4b991c0b |
+| 39.11-CL-49241099 | https://fortforge.dev/builds/ceac9ba4-53d5-4525-87f2-c6f4c9efd4ca |
+| 39.11-CL-49242330 | Manifest Available |
+| 39.20-CL-49564179 | https://fortforge.dev/builds/4ba641ae-da70-48ad-96f1-bbda964903f8 |
+| 39.30-CL-49564179 | https://fortforge.dev/builds/4ba641ae-da70-48ad-96f1-bbda964903f8 |
+| 39.40-CL-50341043 | Manifest Available |
+| 39.40-CL-50577083 | https://fortforge.dev/builds/6f0ddd4a-7050-4a4f-aa96-f30c2f6439c2 |
+| 39.50-CL-51043566 | https://fortforge.dev/builds/29e38dc2-5f05-4a57-b9de-bcc229753e40 |
+| 39.50-CL-50854790 | https://fortforge.dev/builds/99d9783c-2ef4-4532-a870-6086b46a0e1d |
+| 39.51-CL-51287198 | https://fortforge.dev/builds/d8a0e37d-e777-448a-99da-b65d8c7f7f36 |
 
 ## Chapter 6 MS2
 | Build | Download | Alternative Download | Alternative Download
@@ -18,29 +44,29 @@ All the new Fortnite builds are here
 ## Chapter 6 Season 4
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 37.00-CL-44501951 | Manifest Available |
-| 37.00-CL-44765404 | Manifest Available |
-| 37.10-CL-45056983 | Manifest Available |
-| 37.10-CL-45566377 | Manifest Available |
-| 37.20-CL-45566402 | Manifest Available |
-| 37.20-CL-45679054 | Manifest Available |
-| 37.30-CL-45814998 | Manifest Available |
-| 37.31-CL-46047957 | Manifest Available |
-| 37.40-CL-46295673 | Manifest Available |
-| 37.50-CL-46578011 | Manifest Available |
-| 37.51-CL-46968237 | Manifest Available |
+| 37.00-CL-44501951 | https://fortforge.dev/builds/bb3ccfcb-b540-4fb4-b9c4-a9ccefd580c1 |
+| 37.00-CL-44765404 | https://fortforge.dev/builds/7fbb5b93-a00f-4bf5-b664-c2ccc305ed02 |
+| 37.10-CL-45056983 | https://fortforge.dev/builds/1dda3ff0-25e9-4181-9494-3083946320a6 |
+| 37.10-CL-45566377 | https://fortforge.dev/builds/3a7e303d-3122-4bfa-97ab-db0449201283 |
+| 37.20-CL-45566402 | https://fortforge.dev/builds/62372c78-659c-4a29-a484-f64315db8a08 |
+| 37.20-CL-45679054 | https://fortforge.dev/builds/91b0334a-4556-46b4-ad70-ee998d219570 |
+| 37.30-CL-45814998 | https://fortforge.dev/builds/4e0ed660-88c0-4426-9def-ce6d200a49e4 |
+| 37.31-CL-46047957 | https://fortforge.dev/builds/21f25e83-01c5-4c1a-ab3d-2a689cf4d804 |
+| 37.40-CL-46295673 | https://fortforge.dev/builds/d46d5d3f-6be1-4107-9bad-01df1dbc172d |
+| 37.50-CL-46578011 | https://fortforge.dev/builds/92cef413-3caf-45a2-8529-8d2545bc0758 |
+| 37.51-CL-46968237 | https://fortforge.dev/builds/10d9c479-67ca-460e-85d5-876ae692f11b |
 
 ## Chapter 6 Season 3
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 36.00-CL-43214806 | Manifest Available |
-| 36.00-CL-43339403 | Manifest Available |
-| 36.10-CL-43486998 | Manifest Available |
-| 36.10-CL-43713507 | Manifest Available |
-| 36.10-CL-43997926 | Manifest Available |
-| 36.20-CL-43847582 | Manifest Available |
-| 36.20-CL-44118662 | Manifest Available |
-| 36.30-CL-44367537 | Manifest Available |
+| 36.00-CL-43214806 | https://fortforge.dev/builds/cc63956c-f722-4bd7-a44a-90eac9bf1063 |
+| 36.00-CL-43339403 | https://fortforge.dev/builds/b2707362-3bf8-4ed6-bc3e-c21750e6a3b8 |
+| 36.10-CL-43486998 | https://fortforge.dev/builds/b002d6c0-48df-4bfd-bca1-10887c0e823b |
+| 36.10-CL-43713507 | https://fortforge.dev/builds/9714fc43-d942-487e-adc9-7fa15fdc929b |
+| 36.10-CL-43997926 | https://fortforge.dev/builds/0875eeb6-9745-4acc-bee3-19e5d34c90c8 |
+| 36.20-CL-43847582 | https://fortforge.dev/builds/355f2747-d7d4-4712-92cb-f2fbde3802fb |
+| 36.20-CL-44118662 | https://fortforge.dev/builds/dbe530e0-9e8f-46ea-b055-6d261a7cf3f0 |
+| 36.30-CL-44367537 | https://fortforge.dev/builds/e48aec4d-5aa2-4af8-8515-d83d0d386009 |
 
 ## Chapter 6 MS1
 | Build | Download | Alternative Download | Alternative Download
@@ -58,13 +84,13 @@ All the new Fortnite builds are here
 | 34.00-CL-40085084 | Unavailable |
 | 34.00-CL-40228973 | Unavailable |
 | 34.00-CL-40398515 | Unavailable |
-| 34.00-CL-40446427 | Unavailable |
-| 34.10-CL-40567068 | https://drive.google.com/file/d/19Deve2k8YjZ6qZCcNAKzcf5yxqwZY_WG/view |
-| 34.20-CL-40965447 | Manifest Available |
-| 34.21-CL-41092960 | Manifest Available |
-| 34.30-CL-41387772 | Manifest Available |
-| 34.30-CL-41588354 | Manifest Available |
-| 34.40-CL-41753727 | Manifest Available |
+| 34.00-CL-40446427 | https://fortforge.dev/builds/2da558c1-c3f6-4297-b1b3-2c1ceeded801 |
+| 34.10-CL-40567068 | https://fortforge.dev/builds/6a3596f4-4963-44ff-b918-975b0618d4c0 |
+| 34.20-CL-40965447 | https://fortforge.dev/builds/f2bd80e5-dcbd-45ca-9528-b56e7f3bdab9 |
+| 34.21-CL-41092960 | https://fortforge.dev/builds/8412c1ab-848e-4ae9-a62b-0cf96627c354 |
+| 34.30-CL-41387772 | https://fortforge.dev/builds/25bf4c60-f199-4533-8584-454e0ef4a67b |
+| 34.30-CL-41588354 | https://fortforge.dev/builds/79b6cad2-9f58-4350-a50d-5504a3e6bb94 |
+| 34.40-CL-41753727 | https://fortforge.dev/builds/79f6cb57-2b07-4214-a944-04ef394be7ad |
 
 ## Chapter 6 Season 1
 | Build | Download | Alternative Download | Alternative Download
