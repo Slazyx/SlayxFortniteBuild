@@ -16,6 +16,7 @@ It's possible that some builds won't work :/
 | 40.10-CL-52157884 | https://fortforge.dev/builds/90b5a7c1-3ff3-46f4-99f3-ca2b8d96d165 |
 | 40.20-CL-52463280 | https://fortforge.dev/builds/b1b68d0b-71aa-4ac8-a306-f97c532b9d5c |
 | 40.30-CL-53093531 | https://fortforge.dev/builds/7e6c16fc-3bc8-4cb3-af07-673a2949b8e2 |
+| 40.40-CL-53683214 | Current |
 
 ## Chapter 7 Season 1
 | Build | Download | Alternative Download | Alternative Download
